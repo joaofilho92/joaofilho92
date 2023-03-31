@@ -27,7 +27,7 @@
   
 </div>
 
-![Snake animation] https://github.com/joaofilho92
+
 
 
 
