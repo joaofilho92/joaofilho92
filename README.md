@@ -4,7 +4,7 @@
 
 ### Ciao! 👋
 
-Mi chiamo Joao e ho 31 anni. Sono un giovane sviluppatore front-end, recentemente diplomato presso la Epicode. Sono italo-brasiliano e attualmente vivo a Rieti, in Italia.
+Mi chiamo Joao Batista e ho 31 anni. Sono un giovane sviluppatore front-end, recentemente diplomato presso la Epicode. Sono italo-brasiliano e attualmente vivo a Rieti, in Italia.
 
 Mi appassionano la programmazione e la creazione di soluzioni efficaci e innovative per risolvere problemi complessi. Sono sempre alla ricerca di nuove opportunità per migliorare le mie competenze e collaborare con altri professionisti nel campo.
 
@@ -27,6 +27,7 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
+<br/>
 <br/>
 
 ### Tools
