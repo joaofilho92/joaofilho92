@@ -29,6 +29,7 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="MuiMaterial" width="50px" style="padding-right:10px;" src="https://mui.com/static/logo.png" />
 
 <br/>
 <br/>
@@ -36,8 +37,9 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 ### Tools
 
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-<img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-<img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353904/insomnia.svg" />
+<img align="left" alt="Insomnia" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353904/insomnia.svg"/>
+<img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
+
 
 
 <br/>
