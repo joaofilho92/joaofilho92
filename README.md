@@ -4,7 +4,7 @@
 
 ### Ciao! 👋
 
-Mi chiamo Joao Batista. Sono un giovane sviluppatore front-end, recentemente diplomato presso la Epicode. Sono italo-brasiliano e attualmente vivo a Rieti, in Italia.
+Mi chiamo Joao Batista. Sono un giovane sviluppatore front-end. Sono italo-brasiliano e attualmente vivo a Rieti, in Italia.
 
 Mi appassionano la programmazione e la creazione di soluzioni efficaci e innovative per risolvere problemi complessi. Sono sempre alla ricerca di nuove opportunità per migliorare le mie competenze e collaborare con altri professionisti nel campo.
 
