@@ -37,10 +37,9 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 <br/>
 
 
-### Desktop/Mobile/DataBase
+### Desktop
 
 <img align="left" alt="Delphi" width="50px" style="padding-right:10px;" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" />
-<img align="left" alt="MySql" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" />
 
 <br/>
 <br/>
