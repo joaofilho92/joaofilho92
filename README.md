@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Joao+Lopes;I'm+31+years+old;I'm+naturally+Brazilian,+SP+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Joao+Lopes;I'm+naturally+Brazilian,+SP+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 **`Front-End Developer`**
 
