@@ -53,6 +53,7 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 <img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
 <img align="left" alt="Wordpress" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png"/>
 <img align="left" alt="Elementor" width="50px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png"/>
+<img align="left" alt="Avada" width="50px" style="padding-right:10px;" src="https://cdn.wpml.org/wp-content/uploads/2021/10/avada-icon-circle.png"/>
 <img align="left" alt="Apache" width="50px" style="padding-right:10px;" src="https://normalblog.net/system/wp-content/uploads/2015/12/apache.png"/>
 
 
