@@ -40,7 +40,7 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 ### Desktop
 
 <img align="left" alt="Delphi" width="50px" style="padding-right:10px;" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" />
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://c0.klipartz.com/pngpicture/653/226/gratis-png-mysql-thumbnail.png" />
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />
 
 <br/>
 <br/>
