@@ -35,9 +35,9 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 
 ### Tools
 
-<img align="left" alt="Insommia" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" /><br />
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
 <img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><br />
+<img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://asset.brandfetch.io/idSvbGo8Jb/idCuLDwQ2Z.svg?updated=1699420251061" /><br />
 
 <br/>
 <br/>
