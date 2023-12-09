@@ -39,7 +39,7 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 <img align="left" alt="Insommia" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" /><br />
 <img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><br />
 
-
+<br/>
 <br/>
 
 ### Services
