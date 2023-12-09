@@ -40,6 +40,7 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 ### Desktop
 
 <img align="left" alt="Delphi" width="50px" style="padding-right:10px;" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" />
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://c0.klipartz.com/pngpicture/653/226/gratis-png-mysql-thumbnail.png" />
 
 <br/>
 <br/>
@@ -62,7 +63,9 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
 
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-<img align="left" alt="SourceTree" width="50px" style="padding-right:10px;" src="https://pics.freeicons.io/uploads/icons/png/17447841331551952105-512.png" />
+<img align="left" alt="Gitlab" width="50px" style="padding-right:10px;" src="https://pics.freeicons.io/uploads/icons/png/17447841331551952105-512.png" />
+<img align="left" alt="SourceTree" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/800px-GitLab_icon.svg.png" />
+
 
 <br/>
 
