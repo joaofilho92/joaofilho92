@@ -1,5 +1,5 @@
 
-**`Front-End Developer`**
+**`Developer`**
 
 ### Ciao! 👋
 
