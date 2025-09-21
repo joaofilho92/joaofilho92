@@ -16,24 +16,6 @@ Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazion
   <a href="https://www.instagram.com/joaofilho92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   
-
-  
-</div>
-
-### Frontend
-
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" />
-<img align="left" alt="MuiMaterial" width="50px" style="padding-right:10px;" src="https://mui.com/static/logo.png" />
-
-<br/>
-<br/>
-
-
 ### Desktop
 
 <img align="left" alt="Delphi" width="50px" style="padding-right:10px;" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" />
