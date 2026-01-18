@@ -1,7 +1,7 @@
 
 **`Developer`**
 
-###Ciao! 👋
+### Ciao! 👋
 Mi chiamo João Batista, sono uno sviluppatore software italo-brasiliano con solida esperienza nello sviluppo di applicazioni Delphi (Object Pascal).
 
 Lavoro principalmente su applicazioni desktop e soluzioni orientate al business, occupandomi dell’analisi dei requisiti, della progettazione dell’architettura e dell’implementazione di funzionalità robuste e manutenibili. Ho esperienza con VCL, integrazione con database relazionali, utilizzo di FireDAC, sviluppo di API e manutenzione di sistemi legacy.
