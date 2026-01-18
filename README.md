@@ -1,13 +1,17 @@
 
 **`Developer`**
 
-### Ciao! 👋
+###Ciao! 👋
+Mi chiamo João Batista, sono uno sviluppatore software italo-brasiliano con solida esperienza nello sviluppo di applicazioni Delphi (Object Pascal).
 
-Mi chiamo Joao Batista. Sono un giovane sviluppatore front-end. Sono italo-brasiliano e attualmente vivo a Rieti, in Italia.
+Lavoro principalmente su applicazioni desktop e soluzioni orientate al business, occupandomi dell’analisi dei requisiti, della progettazione dell’architettura e dell’implementazione di funzionalità robuste e manutenibili. Ho esperienza con VCL, integrazione con database relazionali, utilizzo di FireDAC, sviluppo di API e manutenzione di sistemi legacy.
 
-Mi appassionano la programmazione e la creazione di soluzioni efficaci e innovative per risolvere problemi complessi. Sono sempre alla ricerca di nuove opportunità per migliorare le mie competenze e collaborare con altri professionisti nel campo.
+Presto particolare attenzione alla qualità del codice, all’organizzazione delle unità, all’applicazione di pattern di progettazione, alla gestione delle performance e alla scrittura di soluzioni scalabili e affidabili. Sono abituato a lavorare in ambienti collaborativi, utilizzando Git per il versionamento del codice e seguendo flussi di lavoro strutturati.
 
-Non esitate a contattarmi per qualsiasi informazione o proposta di collaborazione. Grazie per aver visitato il mio profilo GitHub!
+Sono costantemente impegnato nel miglioramento delle mie competenze tecniche e nell’adozione di nuove tecnologie e best practice per ottimizzare i processi di sviluppo.
+
+Attualmente vivo a Rieti, Italia, e sono aperto a collaborazioni e nuove opportunità professionali.
+Grazie per aver visitato il mio profilo GitHub!
 
 <div> 
   <a href="https://www.linkedin.com/in/joao-batista-sviluppatorefrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
